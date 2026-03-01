@@ -1,4 +1,0 @@
-python-binance
-python-telegram-bot
-numpy
-flask
