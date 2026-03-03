@@ -1,0 +1,4 @@
+python-binance==1.0.19
+python-telegram-bot==21.4
+pandas==2.2.2
+pandas_ta==0.3.14b
